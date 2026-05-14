@@ -112,8 +112,7 @@ When order is placed:
             ↓
         [End]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 5. Manual vs Automated Process
+ ### Manual vs Automated Process
 
 Manual Process 
 Takes more time
@@ -122,7 +121,6 @@ Requires repeated work
 Difficult to track 
 Lower productivity 
 Employees do repetitive tasks
-
 
 
 Automated Process
@@ -134,7 +132,7 @@ Higher productivity
 Employees focus on important work 
 -----------------------------------------------------------------------------------------------------------
 
-# 6. Reflection - Why Automation Matters in Enterprise Systems
+#### 6.Reflection - Why Automation Matters in Enterprise Systems
 
 Automation is very important in enterprise systems because companies handle large amounts of data and processes daily. Manual work becomes slow, expensive, and error-prone.
 
@@ -180,4 +178,4 @@ Automation should be avoided when:
 
 Automation performs tasks the same way every time, reducing errors and ensuring consistency. Employees save time and can focus on more valuable work, improving productivity.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
